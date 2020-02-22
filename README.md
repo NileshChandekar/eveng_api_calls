@@ -453,3 +453,5 @@ root@eve-ng:~#
   Feb 22 07:49:58 INFO: stopping fuser -k -TERM /opt/unetlab/tmp/0/74563b1f-43fb-47c6-b331-326508704434/7 > /dev/null 2>&1
   Feb 22 07:49:58 INFO: stopping fuser -k -TERM /opt/unetlab/tmp/0/74563b1f-43fb-47c6-b331-326508704434/3 > /dev/null 2>&1
   ~~~
+
+  :tada: :fireworks:
