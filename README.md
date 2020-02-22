@@ -348,7 +348,7 @@ root@eve-ng:~#
 
 ## The current state, where all the nodes are stopped.
 
-![Image ipa](/home/nchandek/redhat/githubprojects/eveng_api_calls/images/1.png)
+![Image ipa](https://github.com/NileshChandekar/eveng_api_calls/blob/master/images/1.png)
 
 
 #### Lets start the node from CLI
@@ -392,7 +392,7 @@ root@eve-ng:~#
 
 ##### The node is been **STARTED**.
 
-![Image ipa](/home/nchandek/redhat/githubprojects/eveng_api_calls/images/2.png)
+![Image ipa](https://github.com/NileshChandekar/eveng_api_calls/blob/master/images/2.png)
 
 ##### Logs Captured, both **CLI** and **API** call are same. [No difference]
 ### [START]
@@ -439,7 +439,7 @@ root@eve-ng:~#
 
 ##### The node is been **STOPPED**.
 
-![Image ipa](/home/nchandek/redhat/githubprojects/eveng_api_calls/images/3.png)
+![Image ipa](https://github.com/NileshChandekar/eveng_api_calls/blob/master/images/3.png)
 
 ##### Logs Captured, both **CLI** and **API** call are same. [No difference]
 ### [STOP]
